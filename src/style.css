@@ -22,12 +22,7 @@
 .units {
   position: relative;
   top: -34px;
-  font-size: 25px;
-}
-
-.weather-icon-current {
-  color: yellow;
-  font-size: 120px;
+  font-size: 20px;
 }
 
 .weather-icons {
