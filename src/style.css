@@ -1,0 +1,42 @@
+.main-part {
+  border: 1px solid #dadde1;
+  padding: 15px;
+  margin: 20px auto;
+  border-radius: 10px;
+  max-width: 600px;
+}
+
+.enter-city-input {
+  border-color: #0d6efd;
+  border-radius: 5%;
+}
+*/ .city {
+  font-size: 18px;
+}
+.current-city-name {
+  font-size: 30px;
+}
+.current-temperature {
+  font-size: 80px;
+}
+.units {
+  position: relative;
+  top: -34px;
+  font-size: 25px;
+}
+
+.weather-icon-current {
+  color: yellow;
+  font-size: 120px;
+}
+
+.weather-icons {
+  font-size: 35px;
+  opacity: 0.6;
+}
+.info {
+  margin: 0 auto;
+  max-width: 600px;
+  text-align: center;
+  font-size: 14px;
+}
